@@ -1,0 +1,4 @@
+Here we can include all the documentation assets:
+Word files
+Text files
+Images etc.
