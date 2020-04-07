@@ -13,5 +13,8 @@ Here we describe what appeared in version 1
 ## People involved in the project
 Here we provide people involved in the project and a brief description of what they do. It's best to add a contact email address.
 
+## Documentation and meetings
+Here we can describe where we can find documentation. We can also add here a bunch of links to online tools for task management and any other tools related to group work (for ex. Slack channel etc.).
+
 ## Licenses
 Here we add any information about the license according to which others can use this code.
